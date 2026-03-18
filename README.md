@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=850&color=0EA5E9&lines=Full-stack+web+development;React+%2B+TypeScript+frontend+work;Express%2C+Prisma%2C+and+PostgreSQL+backend+systems;Modern+UI%2FUX+and+real+product+workflows;Learning+by+shipping+complete+projects)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/FreddieTheObserver?style=for-the-badge&color=0f172a&labelColor=1e293b)](https://github.com/FreddieTheObserver)
-[![Profile Views](https://komarev.com/ghpvc/?username=FreddieTheObserver&style=for-the-badge&color=0891b2)](https://github.com/FreddieTheObserver)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/FreddieTheObserver?style=for-the-badge&color=0f172a&labelColor=1e293b)](https://github.com/FreddieTheObserver)
+[![Profile Views](https://komarev.com/ghpvc/?username=FreddieTheObserver&style=for-the-badge&color=0891b2)](https://github.com/FreddieTheObserver) -->
 [![Open to Learn](https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-0ea5e9?style=for-the-badge&labelColor=1e293b)](#)
 
 </div>
