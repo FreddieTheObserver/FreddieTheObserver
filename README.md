@@ -124,12 +124,3 @@ A full-stack ecommerce practice project focused on real product workflows.
 [![Email](https://img.shields.io/badge/Email-ClickMe-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaungphyo079@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-your_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
----
-
-<div align="center">
-
-### Philosophy
-
-**Build real things. Learn from the full process. Improve the details.**
-
-</div>
