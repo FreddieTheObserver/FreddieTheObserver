@@ -1,1 +1,1 @@
-hi im freddie
+hi im freddie.
